@@ -1,0 +1,1 @@
+#ifndef APRINTF_H#define APRINTF_H#ifdef APRINTF_C#define BugAlert	301#endifint aprintf (char *, ...);#endif APRINTF_H
