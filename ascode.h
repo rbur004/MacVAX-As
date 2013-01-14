@@ -1,0 +1,1 @@
+#ifndef ASCODE_H#define ASCODE_Hvoid insout(	struct	Opcode	opcode,	struct	arg	*ap,	long	nact);void putins(	struct	Opcode	opcode,	register struct arg *ap,	long	n 			/* Must be positive */);long immconstant(	reg	struct	exp	*xp,	long			argtype,	long			*valuep);#endif  ASCODE_H

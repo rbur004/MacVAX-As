@@ -1,0 +1,1 @@
+#ifndef ASJXXX_H#define ASJXXX_Hvoid initijxxx(void);void ijxout(	struct	Opcode	opcode,	struct	arg	*ap,	long	nact);void jalign(	register struct exp *xp,	register struct symtab *sp);void jxxxfix(void) ;void jxxxbump(	long	segno,	struct	symtab **starthint);#endif  ASJXXX_H

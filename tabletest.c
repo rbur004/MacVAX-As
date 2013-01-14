@@ -1,0 +1,1 @@
+#include <ctypes.h>main(){	/* testing the linker */	extern short type[];	long i;		for( i=0; i<129; i++ )	{		fprintf( stderr,"%5d %5c %5d\n", i, (isprint(i)? i:' ' ), (type+1)[ i ] );	}}

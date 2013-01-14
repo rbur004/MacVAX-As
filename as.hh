@@ -1,0 +1,1 @@
+/* *	Here lies all the ULTRIX decs *	that dont exist on the MAC.  These *	are the ones that the assembler still *	appears to need. * *	:^)    paul-r */typedef unsigned char u_char;			typedef unsigned short u_short;		typedef unsigned long u_int;		typedef unsigned long u_long;		typedef long off_t;					typedef short dev_t;typedef u_long ino_t;typedef long time_t;

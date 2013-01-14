@@ -1,0 +1,1 @@
+#ifndef FLOATTAB_H#define FLOATTAB_Hvoid cfloattab(void);#endif  FLOATTAB_H

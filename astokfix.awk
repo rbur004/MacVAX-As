@@ -1,0 +1,1 @@
+#	@(#)astokfix.awk#/AWKFIXESME/{	if ($4 == "AWKFIXESME"){		print $1 " " $2 " " $3 " " count++;	}}

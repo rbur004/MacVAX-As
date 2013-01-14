@@ -1,0 +1,1 @@
+#ifndef _STARTUP_H_#define _STARTUP_H_#ifdef  _STARTUP_C_short appl_vrefnum = 0;long num_files = 0;#endif _STARTUP_C_extern short appl_vrefnum;extern long num_files;void process_finder_info(void);#endif  _STARTUP_H_

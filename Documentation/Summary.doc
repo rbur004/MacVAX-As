@@ -1,0 +1,1 @@
+main.c  : p 1	  /* Part corresponding to menu File(Assemble...) */docmds.c : p2 ,3  /* execute the command of the menu File(Assemble...) */asinclude.h : p 4,5			/* Mainly to build 		*/asinclude.c : p 6 - 15		/* the appended file. 	*/asparse.c : p 17		/* Part to adapt the current file name	*/						/* to display an error message.			*/

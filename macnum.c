@@ -1,0 +1,1 @@
+char short_map[8] =/* translation when indexing a vax bignum by short*/{	1,0,	3,2,	5,4,	7,6};char char_map[16] =/* translation when indexing a vax bignum by char*/{	3,2,1,0,	7,6,5,4,	11,10,9,8,	15,14,13,12};

@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>main(){	M_FILE IdCurFile;  		/* Identifier of the current file */	M_FILE *PtIdCurFile;  	/* Identifier of the current file */	int 	Indx;	printf("Hello !\n");			/* open and close a lot of files */		for (Indx:= 1; Indx<30 ; ++Indx)		{				}	}
